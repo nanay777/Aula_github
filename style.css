@@ -1,0 +1,13 @@
+.texto{
+    width: 1000px;
+    margin: auto;
+    text-align: justify;
+}
+.titulo1{
+    text-align: center;
+}
+.menu{
+height: 50px;
+background-color: burlywood;
+width: 100%;
+}
